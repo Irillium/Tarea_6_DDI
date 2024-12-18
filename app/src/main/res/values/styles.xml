@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTitleTextStyle" parent="TextAppearance.Material3.HeadlineLarge">
+        <item name="android:textSize">40sp</item>
+        <item name="android:fontFamily">@font/adlam_display</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CustomCollapsedTitleTextStyle" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/adlam_display</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="circularFAB" >
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">100%</item>
+    </style>
+    <style name="hourText">
+        <item name="android:textSize">@dimen/textHourSize</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

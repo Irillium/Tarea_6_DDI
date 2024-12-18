@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/alarm"
+        android:enabled="true"
+        android:icon="@drawable/alarm"
+        android:title="@string/alarm"/>
+    <item
+        android:id="@+id/worldClock"
+        android:enabled="true"
+        android:icon="@drawable/baseline_language_24"
+        android:title="@string/worldClock"/>
+    <item
+        android:id="@+id/timer"
+        android:enabled="true"
+        android:icon="@drawable/sharp_timer_24"
+        android:title="@string/stopwatch"/>
+    <item
+        android:id="@+id/hourglass"
+        android:enabled="true"
+        android:icon="@drawable/round_hourglass_empty_24"
+        android:title="@string/timer"/>
+</menu>

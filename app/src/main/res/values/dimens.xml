@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="maxSize">32dp</dimen>
+    <dimen name="fap">56dp</dimen>
+    <dimen name="standardMargin">16dp</dimen>
+    <dimen name="heightRecycler">645dp</dimen>
+    <dimen name="collapsingHeight">150dp</dimen>
+    <dimen name="marginCard">8dp</dimen>
+    <dimen name="textHourSize">40sp</dimen>
+</resources>

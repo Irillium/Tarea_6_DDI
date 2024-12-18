@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea_6_DDI_RPIM</string>
+    <string name="alarm">Alarma</string>
+    <string name="worldClock">Reloj mundial</string>
+    <string name="stopwatch">Cronómetro</string>
+    <string name="timer">Temporizador</string>
+    <string name="edit">Editar</string>
+    <string name="settings">Ajustes</string>
+    <string name="hour">00:00</string>
+    <string name="frecuency">Sonara una vez</string>
+</resources>
